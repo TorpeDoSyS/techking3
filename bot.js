@@ -286,7 +286,7 @@ client.on('ready', () => {
 client.user.setGame('Music II 3Play ','https://www.twitch.tv/kemo355');
 console.log('Logging into discord..');
 console.log(`
-By MR_Phantom
+By TorpeDoSyS
 `);
 
 });
